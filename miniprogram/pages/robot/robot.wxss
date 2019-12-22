@@ -1,0 +1,53 @@
+.button1{
+background-color: #e7e7e7;
+font-size: 30px;
+border-radius: 50%;
+border: 2px solid #555555;
+width: 90px;
+position: absolute;
+left: 120px;
+}
+.hover1{
+background:rgb(165, 164, 163);
+}
+.button2{
+background-color: #e7e7e7;
+font-size: 30px;
+border-radius: 50%;
+border: 2px solid #555555;
+width: 90px;
+float:left;
+position: absolute;
+left: 0px;
+top: 100px;
+}
+.hover2{
+background:rgb(165, 164, 163);
+}
+.button3{
+background-color: #e7e7e7;
+font-size: 30px;
+border-radius: 50%;
+border: 2px solid #555555;
+width: 90px;
+float:right;
+position: absolute;
+right: 0px;
+top: 100px;
+}
+.hover3{
+background:rgb(165, 164, 163);
+}
+.button4{
+background-color: #e7e7e7;
+font-size: 30px;
+border-radius: 50%;
+border: 2px solid #555555;
+width: 90px;
+position: absolute;
+left: 120px;
+top: 200px;
+}
+.hover4{
+background:rgb(165, 164, 163);
+}

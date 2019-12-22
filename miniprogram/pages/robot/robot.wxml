@@ -1,0 +1,7 @@
+<button bindtouchstart='goforward' class='button1' hover-class='hover1' bindtouchend='stopend'>↑</button>
+
+<button bindtouchstart='turnleft' class='button2' hover-class='hover2' bindtouchend='stopend'>←</button>
+
+<button bindtouchstart='turnright' class='button3' hover-class='hover3' bindtouchend='stopend'>→</button>
+
+<button bindtouchstart='goback' class='button4' hover-class='hover4' bindtouchend='stopend'>↓</button>

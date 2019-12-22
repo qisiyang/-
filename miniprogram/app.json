@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/bluetooth/bluetooth",
+    "pages/robot/robot"
+  ],
+  "tabBar": {
+    "color": "#CCCCCC",
+    "list": [
+      {
+        "pagePath": "pages/bluetooth/bluetooth",
+        "iconPath": "images/bluetoothon2.png",
+        "selectedIconPath": "images/bluetoothon.png",
+        "text": "蓝牙连接"
+      },
+      {
+        "pagePath": "pages/robot/robot",
+        "iconPath": "images/robot2.png",
+        "selectedIconPath": "images/robot.png",
+        "text": "你的设备"
+      }
+    ]
+  },
+  "window": {
+    "navigationBarBackgroundColor": "#FF6600",
+    "navigationBarTitleText": "扫地机器人",
+    "backgroundTextStyle": "light"
+  },
+  "sitemapLocation": "sitemap43.json"
+}
